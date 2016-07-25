@@ -2,7 +2,8 @@
 
 ## 学习资源
 
-
+- [PHP The Right Way](http://www.phptherightway.com)
+- [PHP FIG](http://www.php-fig.org)
 
 ## 学习日志
 
